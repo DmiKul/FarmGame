@@ -260,6 +260,15 @@ h3 {
 		font-size: 15px;
 	}
 	.action-text {
+		width: auto;
+	}
+	.action-text p {
+		width: auto;;
+	}
+	.action-text h2 {
+		width: 100%;
+	}
+	.action .image {
 		width: 100%;
 	}
 }
