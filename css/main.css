@@ -259,4 +259,7 @@ h3 {
 	p {
 		font-size: 15px;
 	}
+	.action-text {
+		width: 100%;
+	}
 }
